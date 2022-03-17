@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PeakCNT
-- 👀 I’m interested in Fronten Codin
+- 👀 I’m interested in Fronten Coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me chanatipninenine@gmail.com
 
 <!---
 PeakCNT/PeakCNT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
